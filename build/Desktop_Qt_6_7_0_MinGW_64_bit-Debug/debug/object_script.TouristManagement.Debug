@@ -1,0 +1,11 @@
+debug/main.o
+debug/addpackagedialog.o
+debug/findpackagedialog.o
+debug/findtouristdialog.o
+debug/mainwindow.o
+debug/registertouristdialog.o
+debug/moc_mainwindow.o
+debug/moc_addpackagedialog.o
+debug/moc_findpackagedialog.o
+debug/moc_findtouristdialog.o
+debug/moc_registertouristdialog.o

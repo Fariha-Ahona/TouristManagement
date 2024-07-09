@@ -1,0 +1,11 @@
+release/main.o
+release/addpackagedialog.o
+release/findpackagedialog.o
+release/findtouristdialog.o
+release/mainwindow.o
+release/registertouristdialog.o
+release/moc_mainwindow.o
+release/moc_addpackagedialog.o
+release/moc_findpackagedialog.o
+release/moc_findtouristdialog.o
+release/moc_registertouristdialog.o
